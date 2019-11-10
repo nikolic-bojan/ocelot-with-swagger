@@ -15,5 +15,6 @@ Old Gateway is not deployed to servers, but new Ocelot Gateway. When I hit ``/sw
 
 You can read more details in blog post https://dev.to/nikolicbojan/ocelot-gateway-with-auto-generated-swagger-4ofc
 
-BR,
+Best regards,
+
 Bojan
