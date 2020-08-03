@@ -21,7 +21,7 @@ namespace OldGateway.Controllers
         }
 
         [HttpGet]
-        public async Task<IEnumerable<WeatherForecast>> Get()
+        public IEnumerable<WeatherForecast> Get()
         {
             //var client = _httpClientFactory.CreateClient("api");
             //var response = await client.GetAsync("weatherforecast");
