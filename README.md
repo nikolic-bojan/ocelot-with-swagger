@@ -13,4 +13,8 @@ That is why I created this workaround:
 
 Old Gateway is not deployed to servers, but new Ocelot Gateway. When I hit ``/swagger/`` on my new Ocelot Gateway, I have exactly the same Swagger and no one can tell that I am running Ocelot now!
 
-I will write a blog post on this with more details soon and update this file.
+You can read more details in blog post https://dev.to/nikolicbojan/ocelot-gateway-with-auto-generated-swagger-4ofc
+
+Best regards,
+
+Bojan
